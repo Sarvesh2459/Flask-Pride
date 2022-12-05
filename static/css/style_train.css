@@ -1,0 +1,37 @@
+.bg{
+    background-color: black;
+}
+.card{
+    background-color: black;
+    
+    margin-bottom: 3%;
+}
+
+.btn-get-started{
+    font-weight: 500;
+    width: 12%;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #3498db;
+    border: 2px solid #3498db;
+    text-decoration: none;
+  }
+  
+.btn-get-started:hover{
+    background-color: #104364;
+    color: #ffff;
+  }
+
+  .card-header{
+    background-color: #8a8c8d !important;
+  }
+
+  .card-body{
+    background-color: black;
+    color: white;
+  }
+  
